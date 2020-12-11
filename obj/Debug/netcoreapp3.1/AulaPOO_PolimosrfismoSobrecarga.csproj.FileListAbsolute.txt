@@ -1,0 +1,13 @@
+C:\Users\Lameck\Desktop\C#\AulaPOO_PolimosrfismoSobrecarga\bin\Debug\netcoreapp3.1\AulaPOO_PolimosrfismoSobrecarga.exe
+C:\Users\Lameck\Desktop\C#\AulaPOO_PolimosrfismoSobrecarga\bin\Debug\netcoreapp3.1\AulaPOO_PolimosrfismoSobrecarga.deps.json
+C:\Users\Lameck\Desktop\C#\AulaPOO_PolimosrfismoSobrecarga\bin\Debug\netcoreapp3.1\AulaPOO_PolimosrfismoSobrecarga.runtimeconfig.json
+C:\Users\Lameck\Desktop\C#\AulaPOO_PolimosrfismoSobrecarga\bin\Debug\netcoreapp3.1\AulaPOO_PolimosrfismoSobrecarga.runtimeconfig.dev.json
+C:\Users\Lameck\Desktop\C#\AulaPOO_PolimosrfismoSobrecarga\bin\Debug\netcoreapp3.1\AulaPOO_PolimosrfismoSobrecarga.dll
+C:\Users\Lameck\Desktop\C#\AulaPOO_PolimosrfismoSobrecarga\bin\Debug\netcoreapp3.1\AulaPOO_PolimosrfismoSobrecarga.pdb
+C:\Users\Lameck\Desktop\C#\AulaPOO_PolimosrfismoSobrecarga\obj\Debug\netcoreapp3.1\AulaPOO_PolimosrfismoSobrecarga.csprojAssemblyReference.cache
+C:\Users\Lameck\Desktop\C#\AulaPOO_PolimosrfismoSobrecarga\obj\Debug\netcoreapp3.1\AulaPOO_PolimosrfismoSobrecarga.AssemblyInfoInputs.cache
+C:\Users\Lameck\Desktop\C#\AulaPOO_PolimosrfismoSobrecarga\obj\Debug\netcoreapp3.1\AulaPOO_PolimosrfismoSobrecarga.AssemblyInfo.cs
+C:\Users\Lameck\Desktop\C#\AulaPOO_PolimosrfismoSobrecarga\obj\Debug\netcoreapp3.1\AulaPOO_PolimosrfismoSobrecarga.csproj.CoreCompileInputs.cache
+C:\Users\Lameck\Desktop\C#\AulaPOO_PolimosrfismoSobrecarga\obj\Debug\netcoreapp3.1\AulaPOO_PolimosrfismoSobrecarga.dll
+C:\Users\Lameck\Desktop\C#\AulaPOO_PolimosrfismoSobrecarga\obj\Debug\netcoreapp3.1\AulaPOO_PolimosrfismoSobrecarga.pdb
+C:\Users\Lameck\Desktop\C#\AulaPOO_PolimosrfismoSobrecarga\obj\Debug\netcoreapp3.1\AulaPOO_PolimosrfismoSobrecarga.genruntimeconfig.cache
